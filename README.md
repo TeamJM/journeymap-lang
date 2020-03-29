@@ -102,7 +102,7 @@ above to contribute a fixed translation.
 **For all other issues** (for example, display issues in the mod):
 
 1. Locate the problematic message key in the language files
-1. Check that the issue hasn't already been reported on the issues page
+1. Check that the issue hasn't already been reported on [the issues page](https://github.com/TeamJM/language-files/issues)
 1. Click the **New issue** button and provide a title, making sure to reference the message key and locale name
    
    For example: `Problem displaying jm.advanced.announcemod.tooltip in es_es`
