@@ -271,7 +271,7 @@
   "jm.common.website": "Help and How-To articles on using JourneyMap",
   "jm.common.system_time_format": "System Time Format",
   "jm.common.system_time_format.tooltip": "\"Time format for the InfoSlot:System Time\"",
-  "jm.common.time_format": "Ream Game Time Format",
+  "jm.common.time_format": "Real Game Time Format",
   "jm.common.time_format.tooltip": "\"Time format for the InfoSlot:Real Game Time\"",
   "jm.config.category.advanced": "Advanced Options",
   "jm.config.category.advanced.tooltip": "Caution! Changing some of these values can cause significant problems and/or crashes.",
