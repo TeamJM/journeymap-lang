@@ -441,6 +441,8 @@
   "jm.common.show_no_icon_names.tooltip": "顯示沒有圖示實體的名稱。這會覆蓋所有其他的顯示名稱欄位。",
   "jm.common.show_npc_names": "顯示 NPC 名稱",
   "jm.common.show_npc_names.tooltip": "在地圖上顯示 NPC 的名稱。",
+  "jm.common.show_off_screen_players": "Show Off-Screen Players",
+  "jm.common.show_off_screen_players.tooltip": "Visible players that are offscreen will have their icon rendered on the border of the minimap.",
   "jm.common.show_passive_names": "顯示被動生物名稱",
   "jm.common.show_passive_names.tooltip": "在地圖上顯示被動生物的名稱。",
   "jm.common.show_pet_names": "顯示寵物名稱",

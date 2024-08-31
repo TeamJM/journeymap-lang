@@ -462,6 +462,8 @@
   "jm.common.show_no_icon_names.tooltip": "Show names for entities that have no icon. This overrides all other show name fields.",
   "jm.common.show_npc_names": "Show NPC Names",
   "jm.common.show_npc_names.tooltip": "Show names of NPCs on the map.",
+  "jm.common.show_off_screen_players": "Show Off-Screen Players",
+  "jm.common.show_off_screen_players.tooltip": "Visible players that are offscreen will have their icon rendered on the border of the minimap.",
   "jm.common.show_passive_names": "Show Passive Mob Names",
   "jm.common.show_passive_names.tooltip": "Show names of passive mobs on the map.",
   "jm.common.show_pet_names": "Show Pet Names",
