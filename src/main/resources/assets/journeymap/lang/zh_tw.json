@@ -795,7 +795,7 @@
   "jm.server.edit.radar.chkbox.villager": "村民雷達",
   "jm.server.edit.radar.chkbox.villager.tooltip": "[啟用/停用]：玩家是否可以在地圖上看見村民。",
   "jm.server.edit.radar.player_names": "玩家名稱",
-  "jm.server.edit.radar.player_names.tooltip": "【啟用／停用】：玩家是否可以在地圖上看到其他玩家的名稱。",
+  "jm.server.edit.radar.player_names.tooltip": "[啟用／停用]：玩家是否可以在地圖上看到其他玩家的名稱。",
   "jm.server.edit.radar.tooltip": "全部：雷達對所有人都有效，需要使用單獨的核取方塊來停用指定目標。\n管理員：對除了管理員使用者以外的所有人完全停用雷達，核取方塊僅對管理員有效。\n無：對所有人停用雷達。",
   "jm.server.edit.slider.update": "每輪玩家更新之間的刻度間隔",
   "jm.server.edit.slider.update.tooltip": "伺服器端將會按此頻率發送玩家位置更新。",
