@@ -890,7 +890,7 @@
   "jm.waypoint.delete_group.label": "删除组",
   "jm.waypoint.delete_group.title": "删除组 %s",
   "jm.waypoint.delete_group_native.purge": "仅删除该组的路径点。",
-  "jm.waypoint.delete_group_native.title": "删除 % s 的所有路径点",
+  "jm.waypoint.delete_group_native.title": "删除 %s 的所有路径点",
   "jm.waypoint.delete_waypoint.confirm.checkbox": "显示删除确认",
   "jm.waypoint.delete_waypoint.confirm.checkbox.tooltip": "可在路径点选项中启用或禁用此功能。",
   "jm.waypoint.deviation_button_sort": "偏差",
