@@ -1,5 +1,4 @@
 {
-  "modmenu.descriptionTranslation.journeymap": "JourneyMap：在探索过程中，通过游戏内小地图或网络浏览器实时显示地图。",
   "_comment": "## 位置参数（%1$s, %2$s, %3$s 等）可以根据您的语言句子结构重新排序",
   "jm.advanced.announcemod": "模组公告",
   "jm.advanced.announcemod.tooltip": "在聊天窗口中宣布 JourneyMap 已准备就绪。",
@@ -1128,5 +1127,6 @@
   "key.journeymap.toggle_render_waypoints_world": "切换路径点世界渲染",
   "key.journeymap.toggle_waypoints": "切换所有路径点",
   "key.journeymap.zoom_in": "放大",
-  "key.journeymap.zoom_out": "缩小"
+  "key.journeymap.zoom_out": "缩小",
+  "modmenu.descriptionTranslation.journeymap": "JourneyMap：在探索过程中，通过游戏内小地图或网络浏览器实时显示地图。"
 }
