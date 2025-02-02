@@ -675,7 +675,7 @@
   "jm.minimap.preview": "Попередній перегляд",
   "jm.minimap.preview.tooltip": "Перегляньте стиль мінімапи з поточними налаштуваннями. Перемкніться на попередній перегляд іншого стилю за допомогою клавіші «\\». Зніміть вибір (або натисніть ESC), щоб зупинити попередній перегляд",
   "jm.minimap.reticle_orientation": "Заголовок візирної сітки",
-  "jm.minimap.reticle_orientation.tooltip": "Орієнтація (оберт) сітки заголовка мінмапи",
+  "jm.minimap.reticle_orientation.tooltip": "Орієнтація (оберт) сітки заголовка мінімапи",
   "jm.minimap.return_to_game": "Повернутися до гри",
   "jm.minimap.self_display_scale": "Масштаб показу себе",
   "jm.minimap.self_display_scale.tooltip": "Масштаб для вашого значка",
