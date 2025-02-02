@@ -830,7 +830,7 @@
   "jm.theme.labelsource.gametime.real.tooltip": "У ігровову часі є новий день, який починається о 6 ранку, це налаштування зміщує це на 6 годин, тож він показує новий день, починаючи з опівночі",
   "jm.theme.labelsource.gametime.sunrise": "Схід сонця",
   "jm.theme.labelsource.gametime.sunset": "Захід сонця",
-  "jm.theme.labelsource.gametime.tooltip": "Показувати світовий час (20-хвилинний цикл), новий день о 6 ранку. Це час гри за замовчанням",
+  "jm.theme.labelsource.gametime.tooltip": "Показувати світовий час (20-хвилинний цикл), новий день о 6 ранку. Це час гри за замовчуванням",
   "jm.theme.labelsource.lightlevel": "Рівень світла",
   "jm.theme.labelsource.lightlevel.tooltip": "Показувати рівень освітлення блоку біля ваших ніг",
   "jm.theme.labelsource.location": "Позиція",
