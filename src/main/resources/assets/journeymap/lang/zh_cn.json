@@ -65,7 +65,7 @@
   "jm.colorpalette.copy_non_existing": "仅复制不存在的",
   "jm.colorpalette.copy_to_global": "复制到全局",
   "jm.colorpalette.copy_to_world": "复制到世界",
-  "jm.colorpalette.create_new": "创建新的",
+  "jm.colorpalette.create_new": "新建",
   "jm.colorpalette.default": "默认",
   "jm.colorpalette.delete_all": "删除全部",
   "jm.colorpalette.delete_all_dialog": "您确定要删除此调色板中的所有颜色吗？",
