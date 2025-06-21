@@ -526,7 +526,7 @@
   "jm.common.waypoint.notification.name.label": "Назва:",
   "jm.common.waypoint.notification.shared_by.label": "Поширив:",
   "jm.common.waypoint.notification.shared_by_from.label": "Файл маршрутної точки %1$s",
-  "jm.common.waypoint.select_all": "Вибрати всі маршрутні точки",
+  "jm.common.waypoint.select_all": "Вибрати усі точки",
   "jm.common.waypoint.select_all.tooltip": "Вибирати усі показані точки",
   "jm.common.webserver_and_mapgui_disabled": "JourneyMap вимкнено файлом jm.common.properties",
   "jm.common.webserver_and_mapgui_ready": "Натисніть [§b%1$s§f] або відкрийте у браузері§b§n http://localhost%2$s §f",
