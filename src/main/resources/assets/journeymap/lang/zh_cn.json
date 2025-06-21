@@ -825,7 +825,7 @@
   "jm.server.enable.minimap": "允许小地图",
   "jm.server.enable.minimap.tooltip": "[启用/禁用]: 小地图功能。",
   "jm.server.hide.coordinates": "隐藏坐标显示",
-  "jm.server.hide.coordinates.tooltip": "隐藏所有坐标显示，禁止编辑路点的坐标值。将大多数坐标显示替换为\"未知位置\"文本。\n注意: 这不会影响已存在的路点名称。"，
+  "jm.server.hide.coordinates.tooltip": "隐藏所有坐标显示，禁止编辑路点的坐标值。将大多数坐标显示替换为\"未知位置\"文本。\n注意: 这不会影响已存在的路点名称。",
   "jm.server.multiplayer_settings": "多人游戏设置",
   "jm.server.multiplayer_settings.tooltip": "是否允许所有玩家、管理员玩家或无玩家使用多人游戏设置菜单。",
   "jm.server.radar_hide_spectators": "隐藏旁观者",
@@ -927,12 +927,12 @@
   "jm.waypoint.disable": "禁用",
   "jm.waypoint.disable_group": "禁用组",
   "jm.waypoint.disable_selected_waypoints": "全部禁用",
-  "jm.waypoint.disable_selected_waypoints.tooltip": "仅禁用列表中当前可见的路点。"，
+  "jm.waypoint.disable_selected_waypoints.tooltip": "仅禁用列表中当前可见的路点。",
   "jm.waypoint.disable_share": "禁用共享",
   "jm.waypoint.disable_share.tooltip": "禁用路径点管理器和全屏弹出菜单聊天位置中的共享按钮。",
   "jm.waypoint.disable_waypoint": "禁用路径点",
   "jm.waypoint.disable_waypoints": "仅禁用列表中当前可见的路径点。",
-  "jm.waypoint.disable_waypoints.tooltip": "仅禁用列表中当前可见的路点。"
+  "jm.waypoint.disable_waypoints.tooltip": "仅禁用列表中当前可见的路点。",
   "jm.waypoint.display_management": "路径点游戏内显示和管理",
   "jm.waypoint.distance": "距离",
   "jm.waypoint.distance_meters": "(%1$sm)",
@@ -942,7 +942,7 @@
   "jm.waypoint.edit_group.color_override": "颜色覆盖",
   "jm.waypoint.edit_group.color_override.tooltip": "启用此选项将强制此组中的所有路径点使用组颜色。如果未选中，路径点将使用其单独的颜色",
   "jm.waypoint.edit_group.icon_override": "图标覆盖",
-  "jm.waypoint.edit_group.icon_override.tooltip": "启用此选项将强制此分组中的所有路点使用组图标。如果取消勾选，路点将使用各自的图标。"，
+  "jm.waypoint.edit_group.icon_override.tooltip": "启用此选项将强制此分组中的所有路点使用组图标。如果取消勾选，路点将使用各自的图标。",
   "jm.waypoint.edit_group.locked": "锁定",
   "jm.waypoint.edit_group.locked.tooltip": "此组已锁定，名称无法编辑。",
   "jm.waypoint.edit_group.tag": "标签",
@@ -972,7 +972,7 @@
   "jm.waypoint.enable_selected_waypoints.tooltip": "仅启用列表中当前可见的路点。",
   "jm.waypoint.enable_waypoint": "启用路径点",
   "jm.waypoint.enable_waypoints": "仅启用列表中当前可见的路径点。",
-  "jm.waypoint.enable_waypoints.tooltip": "仅启用列表中当前可见的路点。"，
+  "jm.waypoint.enable_waypoints.tooltip": "仅启用列表中当前可见的路点。",
   "jm.waypoint.find": "查找",
   "jm.waypoint.find.tooltip": "在地图上查找路径点",
   "jm.waypoint.font_scale": "字体缩放",
