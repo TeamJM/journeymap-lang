@@ -1069,7 +1069,7 @@
   "jm.waypoint.new_title": "新建路径点",
   "jm.waypoint.options": "路径点选项（游戏内显示）",
   "jm.waypoint.options.locator_bar": "全局显示在定位栏上",
-  "jm.waypoint.options.locator_bar.tooltip": "在物品栏上方的原版定位栏上显示路点，禁用此选项也会隐藏并覆盖群组设置。这会影响所有路点和群组"，
+  "jm.waypoint.options.locator_bar.tooltip": "在物品栏上方的原版定位栏上显示路点，禁用此选项也会隐藏并覆盖群组设置。这会影响所有路点和群组",
   "jm.waypoint.options.tooltip": "打开路径点选项",
   "jm.waypoint.randomize": "随机颜色",
   "jm.waypoint.red_abbreviated": "R",
