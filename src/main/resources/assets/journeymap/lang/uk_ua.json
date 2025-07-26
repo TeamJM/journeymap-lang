@@ -1208,7 +1208,7 @@
   "key.journeymap.map_toggle": "Мапа повного екрана",
   "key.journeymap.map_toggle_alt": "Показати/приховати мапу повного екрана",
   "key.journeymap.minimap_preset": "Змінити попередні налаштування мінімапи",
-  "key.journeymap.minimap_toggle_alt": "Показати/приховати мінімапи",
+  "key.journeymap.minimap_toggle_alt": "Показати/приховати мінімапу",
   "key.journeymap.minimap_type": "Змінити тип мапи",
   "key.journeymap.toggle_entity_names": "Перемкнути імена сутностей",
   "key.journeymap.toggle_render_waypoints": "Увімкнути показ маршрутної точки",
