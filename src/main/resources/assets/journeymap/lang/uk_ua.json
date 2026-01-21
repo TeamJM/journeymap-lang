@@ -245,7 +245,7 @@
   "jm.common.hotkeys": "Гарячі клавіши\u2026",
   "jm.common.hotkeys.tooltip": "Перегляньте гарячі клавіші, які можна використовувати з цією мапою.",
   "jm.common.hotkeys_keybinding_category": "JourneyMap",
-  "jm.common.hotkeys_keybinding_fullscreen_category": "JourneyMap — Мапа повного екрана",
+  "jm.common.hotkeys_keybinding_fullscreen_category": "JourneyMap \u2014 Мапа повного екрана",
   "jm.common.ignore_heightmaps": "Ігнорувати мапи висот",
   "jm.common.ignore_heightmaps.tooltip": "Це ігноруватиме мапи висот чанків, якщо верхній шар світу не відображається належним чином. Це може вплинути на продуктивність.",
   "jm.common.importexport_button": "Імпортувати/експортувати",

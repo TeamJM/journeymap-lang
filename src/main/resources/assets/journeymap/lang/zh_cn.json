@@ -1219,5 +1219,6 @@
   "key.journeymap.toggle_waypoints": "切换所有路径点",
   "key.journeymap.zoom_in": "放大",
   "key.journeymap.zoom_out": "缩小",
-  "modmenu.descriptionTranslation.journeymap": "JourneyMap：在探索过程中，通过游戏内小地图或网络浏览器实时显示地图。"
+  "modmenu.descriptionTranslation.journeymap": "JourneyMap：在探索过程中，通过游戏内小地图或网络浏览器实时显示地图。",
+  "jm.webmap.automap_dialog_start": "Start Auto-Map"
 }
