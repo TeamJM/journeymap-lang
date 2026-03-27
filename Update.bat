@@ -1,3 +1,12 @@
-java -jar .\tool\ForgeToolkit-1.1-all.jar update src/main/resources/assets/journeymap/lang/en_us.json src/main/resources/assets/journeymap/lang/*.json
-java -jar .\tool\ForgeToolkit-1.1-all.jar flatten src/main/resources/assets/journeymap/lang/*.json
-java -jar .\tool\ForgeToolkit-1.1-all.jar sort src/main/resources/assets/journeymap/lang/*.json
+@echo off
+setlocal
+set SCRIPT_DIR=%~dp0
+
+py -3 "%SCRIPT_DIR%tool\update_lang_files.py" %*
+if %errorlevel%==0 exit /b 0
+
+python "%SCRIPT_DIR%tool\update_lang_files.py" %*
+if %errorlevel%==0 exit /b 0
+
+python3 "%SCRIPT_DIR%tool\update_lang_files.py" %*
+exit /b %errorlevel%

@@ -79,3 +79,5 @@ node_modules/
 src/main/resources/assets/journeymap/web/bundled/
 /.idea/discord.xml
 /.idea/
+__pycache__/
+*.pyc
