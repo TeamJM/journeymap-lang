@@ -60,8 +60,8 @@
   "jm.color.palette": "调色板",
   "jm.color.red_abbreviated": "R",
   "jm.color.saturation_abbreviated": "S",
-  "jm.color.value_abbreviated": "V"，
-  "jm.colorpalette.basic_colors": "基本颜色"，
+  "jm.color.value_abbreviated": "V",
+  "jm.colorpalette.basic_colors": "基本颜色",
   "jm.colorpalette.biome.fog": "雾",
   "jm.colorpalette.biome.foliage": "树叶",
   "jm.colorpalette.biome.grass": "草地",
@@ -88,7 +88,7 @@
   "jm.colorpalette.example_label": "示例",
   "jm.colorpalette.file_error": "调色板文件有错误，无法使用: %1$s",
   "jm.colorpalette.file_title": "JourneyMap 调色板",
-  "jm.colorpalette.fill_default": "使用默认填充"，
+  "jm.colorpalette.fill_default": "使用默认填充",
   "jm.colorpalette.fill_default_dialog": "您确定要使用当前默认值填充此调色板中所有缺失的颜色吗？",
   "jm.colorpalette.global": "全局",
   "jm.colorpalette.hostile_dot": "敌对点",
@@ -112,7 +112,7 @@
   "jm.colorpalette.player_label": "玩家标签",
   "jm.colorpalette.reset": "重置",
   "jm.colorpalette.resource_packs": "资源包",
-  "jm.colorpalette.retrieving_colors": "正在获取颜色..."，
+  "jm.colorpalette.retrieving_colors": "正在获取颜色...",
   "jm.colorpalette.save_to_global": "保存到全局",
   "jm.colorpalette.save_to_world": "保存到世界",
   "jm.colorpalette.select_all": "全选",
@@ -365,7 +365,7 @@
   "jm.common.map_style_plantshadows.tooltip": "植物和作物将在地图上投射阴影",
   "jm.common.map_style_shadows": "显示地图阴影",
   "jm.common.map_style_shadows.tooltip": "方块将在地图上投射阴影。",
-  "jm.common.map_style_title": "地图样式选项"，
+  "jm.common.map_style_title": "地图样式选项",
   "jm.common.map_style_topography": "绘制地形",
   "jm.common.map_style_topography.tooltip": "提供显示高度变化的等高线地图",
   "jm.common.map_style_transparency": "使用透明度",
@@ -389,7 +389,7 @@
   "jm.common.map_type.underground": "地下",
   "jm.common.map_type.underground.tooltip": "仅显示洞穴地图",
   "jm.common.mapgui_only_ready": "按 [§b%1$s§f]",
-  "jm.common.memory_warning": "Minecraft 内存不足: %1$s"，
+  "jm.common.memory_warning": "Minecraft 内存不足: %1$s",
   "jm.common.minimap_behind_screens": "在界面后方渲染小地图",
   "jm.common.minimap_behind_screens.tooltip": "允许小地图在游戏界面（如菜单/对话框）后方渲染。",
   "jm.common.minimap_options.title": "小地图位置",
@@ -672,7 +672,7 @@
   "jm.minimap.info4_label.position.tooltip": "信息栏 4 的位置",
   "jm.minimap.info_slot.background_alpha": "信息栏背景不透明度",
   "jm.minimap.info_slot.background_alpha.tooltip": "调整信息栏背景的不透明度。",
-  "jm.minimap.info_slot.bottom": "底部"，
+  "jm.minimap.info_slot.bottom": "底部",
   "jm.minimap.info_slot.bottom.tooltip": "栏位于小地图的底部。",
   "jm.minimap.info_slot.font_scale": "信息栏字体缩放",
   "jm.minimap.info_slot.font_scale.tooltip": "用于信息栏的字体缩放。",
@@ -986,7 +986,7 @@
   "jm.waypoint.edit_group.color_override.tooltip": "启用此选项将强制此组中的所有路径点使用组颜色。如果未选中，路径点将使用其单独的颜色",
   "jm.waypoint.edit_group.icon_override": "图标覆盖",
   "jm.waypoint.edit_group.icon_override.tooltip": "启用此选项将强制此分组中的所有路点使用组图标。如果取消勾选，路点将使用各自的图标。",
-  "jm.waypoint.edit_group.locator_bar": "在定位栏上显示"，
+  "jm.waypoint.edit_group.locator_bar": "在定位栏上显示",
   "jm.waypoint.edit_group.locator_bar.tooltip": "在快捷栏上方的原版定位栏显示路径点",
   "jm.waypoint.edit_group.locked": "锁定",
   "jm.waypoint.edit_group.locked.tooltip": "此组已锁定，名称无法编辑。",
@@ -1214,7 +1214,7 @@
   "jm.webmap.web_link_text": "journeymap.info",
   "jm.webmap.web_link_title": "JourneyMap 主页",
   "jm.webmap.worldname_text": "世界名称:",
-  "jm.webmap.worldtime_text": "世界时间:"，
+  "jm.webmap.worldtime_text": "世界时间:",
   "jm.webmap.zoom_slider_name": "缩放",
   "key.category.journeymap.hotkeys": "快捷键...",
   "key.category.journeymap.hotkeys.tooltip": "查看此地图可用的快捷键",
