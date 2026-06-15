@@ -28,6 +28,8 @@
   "jm.advanced.checkupdates.tooltip": "关闭此选项意味着当有新版本的 JourneyMap 时，您将不会收到通知。",
   "jm.advanced.chunk_caching": "区块数据缓存",
   "jm.advanced.chunk_caching.tooltip": "启用或禁用区块缓存，禁用时，传送到渲染范围之外的路径点将默认为 Minecraft 的海平面 y=64。",
+  "jm.advanced.drawstep_update_rate": "Draw Step Update Rate",
+  "jm.advanced.drawstep_update_rate.tooltip": "Duration (in milliseconds) between rebuilds of map draw steps (radar entities, waypoints). Lower values refresh the radar/waypoint set faster but will hurt performance.",
   "jm.advanced.gl_error_check": "GL 错误检查",
   "jm.advanced.gl_error_check.tooltip": "启用 GL 错误检查，启用可能会降低性能，更改此值后需要重启。",
   "jm.advanced.loglevel": "日志级别",

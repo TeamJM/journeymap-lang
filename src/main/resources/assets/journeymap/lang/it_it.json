@@ -30,6 +30,8 @@
   "jm.advanced.checkupdates.tooltip": "Disattivando questa opzione non si riceveranno le notifiche delle nuove versioni di JourneyMap disponibili.",
   "jm.advanced.chunk_caching": "Cache dei dati dei chunk",
   "jm.advanced.chunk_caching.tooltip": "Abilita o disabilita la cache dei chunk; quando è disabilitata, il teletrasporto o la creazione di tappe al di fuori dell'intervallo di renderizzazione saranno per impostazione predefinita su Minecraft: livello del mare y=64.",
+  "jm.advanced.drawstep_update_rate": "Draw Step Update Rate",
+  "jm.advanced.drawstep_update_rate.tooltip": "Duration (in milliseconds) between rebuilds of map draw steps (radar entities, waypoints). Lower values refresh the radar/waypoint set faster but will hurt performance.",
   "jm.advanced.gl_error_check": "Verifica errori GL",
   "jm.advanced.gl_error_check.tooltip": "Abilita il controllo degli errori GL; l'abilitazione può ridurre le prestazioni; è necessario riavviare il gioco dopo aver modificato questo valore.",
   "jm.advanced.loglevel": "Livello di registrazione",

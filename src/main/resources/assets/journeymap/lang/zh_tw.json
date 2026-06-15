@@ -28,6 +28,8 @@
   "jm.advanced.checkupdates.tooltip": "關閉此選項表示當 JourneyMap 有新版本可用時，你將不會收到通知。",
   "jm.advanced.chunk_caching": "區塊資料快取",
   "jm.advanced.chunk_caching.tooltip": "啟用或停用區塊快取，停用時，在顯示範圍外傳送或建立定位點將會預設為 Minecraft 的海平面高度 y=64。",
+  "jm.advanced.drawstep_update_rate": "Draw Step Update Rate",
+  "jm.advanced.drawstep_update_rate.tooltip": "Duration (in milliseconds) between rebuilds of map draw steps (radar entities, waypoints). Lower values refresh the radar/waypoint set faster but will hurt performance.",
   "jm.advanced.gl_error_check": "GL 錯誤檢測",
   "jm.advanced.gl_error_check.tooltip": "啟用 GL 錯誤檢測。啟用時會影響效能，更改這個值後需要重新啟動遊戲。",
   "jm.advanced.loglevel": "日誌等級",

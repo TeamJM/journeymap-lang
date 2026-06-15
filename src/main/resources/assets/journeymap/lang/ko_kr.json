@@ -30,6 +30,8 @@
   "jm.advanced.checkupdates.tooltip": "이 기능을 끄면 JourneyMap의 새로운 버전이 존재하더라도 알리지 않습니다.",
   "jm.advanced.chunk_caching": "청크 데이터 캐싱",
   "jm.advanced.chunk_caching.tooltip": "청크 캐싱을 끄거나 켭니다. 해당 기능을 끄면 텔레포트 할 시, 또는 렌더링 거리 바깥에 경유지를 생성 할 시 마인크래프트 기본설정 해수면 y=64로 돌아갑니다.",
+  "jm.advanced.drawstep_update_rate": "Draw Step Update Rate",
+  "jm.advanced.drawstep_update_rate.tooltip": "Duration (in milliseconds) between rebuilds of map draw steps (radar entities, waypoints). Lower values refresh the radar/waypoint set faster but will hurt performance.",
   "jm.advanced.gl_error_check": "GL 오류 확인",
   "jm.advanced.gl_error_check.tooltip": "GL 오류 확인 기능을 켭니다. 해당 기능을 켜면 성능이 저하될 수 있고, 재시작해야 적용됩니다.",
   "jm.advanced.loglevel": "로깅(Logging) 레벨",
