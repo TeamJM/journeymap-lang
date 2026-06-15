@@ -36,6 +36,8 @@
   "jm.advanced.gl_error_check.tooltip": "Enables GL Error checking, enabling can decrease performance, restart required after changing this value.",
   "jm.advanced.loglevel": "Niveau de journalisation",
   "jm.advanced.loglevel.tooltip": "ATTENTION! Certains niveaux de journalisation réduisent les performances. Laissez ces valeurs par défaut sauf sur demande spéciale.",
+  "jm.advanced.minimap_maptype_overlay": "Minimap Map Type Overlay",
+  "jm.advanced.minimap_maptype_overlay.tooltip": "Show or hide the map type icon displayed when switching the minimap's map type.",
   "jm.advanced.minimap_preset_overlay": "Minimap Preset Number Overlay",
   "jm.advanced.minimap_preset_overlay.tooltip": "Show or hide the number overlay displayed when switching minimap presets.",
   "jm.advanced.mob_icon_fade": "Mob Icon Fade",

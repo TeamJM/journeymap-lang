@@ -34,6 +34,8 @@
   "jm.advanced.gl_error_check.tooltip": "GL hata denetimini etkinleştirir. Etkinleştirmek performansı düşürebilir; bu değeri değiştirdikten sonra yeniden başlatma gerekir.",
   "jm.advanced.loglevel": "Günlükleme düzeyi",
   "jm.advanced.loglevel.tooltip": "Dikkat! Bazı günlükleme düzeyleri performansı olumsuz etkiler. Aksi belirtilmedikçe varsayılanı koruyun.",
+  "jm.advanced.minimap_maptype_overlay": "Minimap Map Type Overlay",
+  "jm.advanced.minimap_maptype_overlay.tooltip": "Show or hide the map type icon displayed when switching the minimap's map type.",
   "jm.advanced.minimap_preset_overlay": "Mini harita ön ayar numarası göstergesi",
   "jm.advanced.minimap_preset_overlay.tooltip": "Mini harita ön ayarları değiştirilirken gösterilen sayı katmanını gösterir veya gizler.",
   "jm.advanced.mob_icon_fade": "Mob simgesi solması",

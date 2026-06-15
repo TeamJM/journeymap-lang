@@ -34,6 +34,8 @@
   "jm.advanced.gl_error_check.tooltip": "Įjungia GL klaidų tikrinimą \u2013 įjungus gali sumažėti našumas. Po šios reikšmės pakeitimo reikalingas paleidimas iš naujo.",
   "jm.advanced.loglevel": "Logging lygis",
   "jm.advanced.loglevel.tooltip": "Dėmesio! Kai kurie žurnalo lygiai gali pabloginti našumą. Palikite numatytąjį, nebent nurodyta kitaip.",
+  "jm.advanced.minimap_maptype_overlay": "Minimap Map Type Overlay",
+  "jm.advanced.minimap_maptype_overlay.tooltip": "Show or hide the map type icon displayed when switching the minimap's map type.",
   "jm.advanced.minimap_preset_overlay": "Mini žemėlapio šablono numerio perdanga",
   "jm.advanced.minimap_preset_overlay.tooltip": "Rodyti arba slėpti numerio perdangą, rodomą perjungiant mini žemėlapio šablonus.",
   "jm.advanced.mob_icon_fade": "Padarų piktogramų išblukimas",

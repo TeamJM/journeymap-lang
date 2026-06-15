@@ -34,6 +34,8 @@
   "jm.advanced.gl_error_check.tooltip": "Умикає перевірку помилок GL, увімкнення може знизити продуктивність, після зміни цього значення потрібен перезапуск.",
   "jm.advanced.loglevel": "Рівень журналювання",
   "jm.advanced.loglevel.tooltip": "Обережно! Деякі рівні журналювання погіршать продуктивність. Зберігайте усталене значення, якщо не вказано інше.",
+  "jm.advanced.minimap_maptype_overlay": "Minimap Map Type Overlay",
+  "jm.advanced.minimap_maptype_overlay.tooltip": "Show or hide the map type icon displayed when switching the minimap's map type.",
   "jm.advanced.minimap_preset_overlay": "Minimap Preset Number Overlay",
   "jm.advanced.minimap_preset_overlay.tooltip": "Show or hide the number overlay displayed when switching minimap presets.",
   "jm.advanced.mob_icon_fade": "Зникання значків мобів",

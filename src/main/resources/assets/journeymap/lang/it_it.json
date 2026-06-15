@@ -36,6 +36,8 @@
   "jm.advanced.gl_error_check.tooltip": "Abilita il controllo degli errori GL; l'abilitazione può ridurre le prestazioni; è necessario riavviare il gioco dopo aver modificato questo valore.",
   "jm.advanced.loglevel": "Livello di registrazione",
   "jm.advanced.loglevel.tooltip": "Attenzione! Alcuni livelli di registrazione possono peggiorare le prestazioni. Mantenere i livelli predefiniti, se non diversamente indicato.",
+  "jm.advanced.minimap_maptype_overlay": "Minimap Map Type Overlay",
+  "jm.advanced.minimap_maptype_overlay.tooltip": "Show or hide the map type icon displayed when switching the minimap's map type.",
   "jm.advanced.minimap_preset_overlay": "Minimap Preset Number Overlay",
   "jm.advanced.minimap_preset_overlay.tooltip": "Show or hide the number overlay displayed when switching minimap presets.",
   "jm.advanced.mob_icon_fade": "Mob Icon Fade",

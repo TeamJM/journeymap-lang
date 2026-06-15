@@ -34,6 +34,8 @@
   "jm.advanced.gl_error_check.tooltip": "啟用 GL 錯誤檢測。啟用時會影響效能，更改這個值後需要重新啟動遊戲。",
   "jm.advanced.loglevel": "日誌等級",
   "jm.advanced.loglevel.tooltip": "注意！某些日誌等級會影響效能。除非另有指示，否則請保持預設。",
+  "jm.advanced.minimap_maptype_overlay": "Minimap Map Type Overlay",
+  "jm.advanced.minimap_maptype_overlay.tooltip": "Show or hide the map type icon displayed when switching the minimap's map type.",
   "jm.advanced.minimap_preset_overlay": "Minimap Preset Number Overlay",
   "jm.advanced.minimap_preset_overlay.tooltip": "Show or hide the number overlay displayed when switching minimap presets.",
   "jm.advanced.mob_icon_fade": "生物圖示淡化",

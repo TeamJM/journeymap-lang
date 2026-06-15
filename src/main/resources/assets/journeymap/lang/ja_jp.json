@@ -36,6 +36,8 @@
   "jm.advanced.gl_error_check.tooltip": "Enables GL Error checking, enabling can decrease performance, restart required after changing this value.",
   "jm.advanced.loglevel": "ログとして記録する情報",
   "jm.advanced.loglevel.tooltip": "注意! ログの情報量を多くすればパフォーマンスに影響が出ます。 特に理由のない場合はデフォルトのままにしてください。",
+  "jm.advanced.minimap_maptype_overlay": "Minimap Map Type Overlay",
+  "jm.advanced.minimap_maptype_overlay.tooltip": "Show or hide the map type icon displayed when switching the minimap's map type.",
   "jm.advanced.minimap_preset_overlay": "Minimap Preset Number Overlay",
   "jm.advanced.minimap_preset_overlay.tooltip": "Show or hide the number overlay displayed when switching minimap presets.",
   "jm.advanced.mob_icon_fade": "Mob Icon Fade",
