@@ -198,6 +198,7 @@
   "jm.common.copy_config.minimap1.tooltip": "Копіює поточні загальні параметри до попередньо встановлених параметрів мінімапи 1.",
   "jm.common.copy_config.minimap2": "Копіювати в пресет мінімапи 2",
   "jm.common.copy_config.minimap2.tooltip": "Копіює поточні загальні параметри до попередньо встановлених параметрів мінімапи 2.",
+  "jm.common.create_trainmap_disabled": "§6Create's built-in train map is not compatible with JourneyMap 6 and was disabled. Install the §eCreate Repair§6 mod to restore it.",
   "jm.common.curseforge": "CurseForge",
   "jm.common.day": "День",
   "jm.common.delete": "Видалити",
