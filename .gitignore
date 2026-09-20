@@ -81,3 +81,7 @@ src/main/resources/assets/journeymap/web/bundled/
 /.idea/
 __pycache__/
 *.pyc
+
+# Generated Minecraft .lang files belong in the legacy version repos (1.7.10 / 1.12.2),
+# produced by tool/update_lang_files.py. They must never be committed here.
+*.lang
