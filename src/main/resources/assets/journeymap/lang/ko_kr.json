@@ -1402,6 +1402,7 @@
   "key.journeymap.fullscreen_follow_player": "Follow Player",
   "key.journeymap.fullscreen_options": "설정 관리자",
   "key.journeymap.fullscreen_waypoints": "경유지 관리자",
+  "key.journeymap.hold_entity_names": "Show Entity Names (Hold)",
   "key.journeymap.map_toggle": "맵 전체화면",
   "key.journeymap.map_toggle_alt": "전체화면 숨기기 / 보이기",
   "key.journeymap.minimap_preset": "미니맵 프리셋 변경",

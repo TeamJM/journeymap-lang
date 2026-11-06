@@ -1379,6 +1379,7 @@
   "key.journeymap.fullscreen_follow_player": "Oyuncuyu Takip Et",
   "key.journeymap.fullscreen_options": "Seçenek Yöneticisi",
   "key.journeymap.fullscreen_waypoints": "Yol noktası yöneticisi",
+  "key.journeymap.hold_entity_names": "Show Entity Names (Hold)",
   "key.journeymap.map_toggle": "Tam ekran harita",
   "key.journeymap.map_toggle_alt": "Tam ekran haritayı göster/gizle",
   "key.journeymap.minimap_preset": "Mini harita ön ayarını değiştir",

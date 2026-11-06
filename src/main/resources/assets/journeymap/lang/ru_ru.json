@@ -1413,6 +1413,7 @@
   "key.journeymap.fullscreen_follow_player": "Follow Player",
   "key.journeymap.fullscreen_options": "Менеджер настроек",
   "key.journeymap.fullscreen_waypoints": "Менеджер меток",
+  "key.journeymap.hold_entity_names": "Show Entity Names (Hold)",
   "key.journeymap.map_toggle": "Полноэкранная карта",
   "key.journeymap.map_toggle_alt": "Показать/Спрятать полноэкранную карту",
   "key.journeymap.minimap_preset": "Переключить режим мини-карты",

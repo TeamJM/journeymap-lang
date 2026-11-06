@@ -1406,6 +1406,7 @@
   "key.journeymap.fullscreen_follow_player": "Follow Player",
   "key.journeymap.fullscreen_options": "Options Manager",
   "key.journeymap.fullscreen_waypoints": "Waypoint Manager",
+  "key.journeymap.hold_entity_names": "Show Entity Names (Hold)",
   "key.journeymap.map_toggle": "Fullskjermkart (+CTRL for å bytte minikart)",
   "key.journeymap.map_toggle_alt": "Vis / Sjul Fullskjermkart",
   "key.journeymap.minimap_preset": "Bytt Minikart Presett",

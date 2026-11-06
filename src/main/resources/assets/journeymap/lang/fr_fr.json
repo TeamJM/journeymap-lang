@@ -1413,6 +1413,7 @@
   "key.journeymap.fullscreen_follow_player": "Suivre le joueur",
   "key.journeymap.fullscreen_options": "Gestion des options",
   "key.journeymap.fullscreen_waypoints": "Gestion des balises",
+  "key.journeymap.hold_entity_names": "Show Entity Names (Hold)",
   "key.journeymap.map_toggle": "Carte plein écran",
   "key.journeymap.map_toggle_alt": "Afficher/cacher la carte plein écran",
   "key.journeymap.minimap_preset": "Passer à la mini-carte suivante",

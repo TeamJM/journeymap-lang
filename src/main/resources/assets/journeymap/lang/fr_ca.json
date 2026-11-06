@@ -1407,6 +1407,7 @@
   "key.journeymap.fullscreen_follow_player": "Follow Player",
   "key.journeymap.fullscreen_options": "Options Manager",
   "key.journeymap.fullscreen_waypoints": "Waypoint Manager",
+  "key.journeymap.hold_entity_names": "Show Entity Names (Hold)",
   "key.journeymap.map_toggle": "Carte Plein-Écran",
   "key.journeymap.map_toggle_alt": "Affiche / Cache la Carte Plein-Écran",
   "key.journeymap.minimap_preset": "Alterne les Sets de Mini-Carte",

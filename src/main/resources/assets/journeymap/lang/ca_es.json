@@ -1402,6 +1402,7 @@
   "key.journeymap.fullscreen_follow_player": "Follow Player",
   "key.journeymap.fullscreen_options": "Options Manager",
   "key.journeymap.fullscreen_waypoints": "Waypoint Manager",
+  "key.journeymap.hold_entity_names": "Show Entity Names (Hold)",
   "key.journeymap.map_toggle": "Mapa a Pantalla Completa",
   "key.journeymap.map_toggle_alt": "Mostrar / Amagar Mapa a Pantalla Completa",
   "key.journeymap.minimap_preset": "Cambiar el Mini Mapa present",

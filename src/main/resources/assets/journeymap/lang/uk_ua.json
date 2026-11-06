@@ -1377,6 +1377,7 @@
   "key.journeymap.fullscreen_follow_player": "Слідкувати за гравцем",
   "key.journeymap.fullscreen_options": "Відкрити диспетчер налаштувань",
   "key.journeymap.fullscreen_waypoints": "Диспетчер маршрутних точок",
+  "key.journeymap.hold_entity_names": "Show Entity Names (Hold)",
   "key.journeymap.map_toggle": "Відкрити мапу повного екрана",
   "key.journeymap.map_toggle_alt": "Показати/приховати мапу повного екрана",
   "key.journeymap.minimap_preset": "Змінити пресет мінімапи",

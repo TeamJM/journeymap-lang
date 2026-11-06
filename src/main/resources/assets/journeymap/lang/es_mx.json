@@ -1410,6 +1410,7 @@
   "key.journeymap.fullscreen_follow_player": "Seguir al jugador",
   "key.journeymap.fullscreen_options": "Administrador de Opciones",
   "key.journeymap.fullscreen_waypoints": "Administrador de puntos de ruta",
+  "key.journeymap.hold_entity_names": "Show Entity Names (Hold)",
   "key.journeymap.map_toggle": "Mapa en pantalla completa",
   "key.journeymap.map_toggle_alt": "Mostrar/esconder mapa en pantalla completa",
   "key.journeymap.minimap_preset": "Cambiar mini mapa presente",

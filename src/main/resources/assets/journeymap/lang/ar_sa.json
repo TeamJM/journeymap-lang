@@ -1400,6 +1400,7 @@
   "key.journeymap.fullscreen_follow_player": "Follow Player",
   "key.journeymap.fullscreen_options": "Options Manager",
   "key.journeymap.fullscreen_waypoints": "Waypoint Manager",
+  "key.journeymap.hold_entity_names": "Show Entity Names (Hold)",
   "key.journeymap.map_toggle": "ملء الشاشة خريطة",
   "key.journeymap.map_toggle_alt": "إظهار / إخفاء ملء الشاشة خريطة",
   "key.journeymap.minimap_preset": "التبديل المصغرة مسبقا",
