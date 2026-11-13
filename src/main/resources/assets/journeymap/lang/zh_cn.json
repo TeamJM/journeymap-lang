@@ -1387,7 +1387,7 @@
   "key.journeymap.fullscreen_follow_player": "跟随玩家",
   "key.journeymap.fullscreen_options": "选项管理器",
   "key.journeymap.fullscreen_waypoints": "路径点管理器",
-  "key.journeymap.hold_entity_names": "Show Entity Names (Hold)",
+  "key.journeymap.hold_entity_names": "显示实体名称（保持）",
   "key.journeymap.map_toggle": "全屏地图",
   "key.journeymap.map_toggle_alt": "显示/隐藏全屏地图",
   "key.journeymap.minimap_preset": "切换小地图预设",
